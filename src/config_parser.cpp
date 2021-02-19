@@ -1,5 +1,4 @@
 #include "config_parser.h"
-#include <vector>
 
 namespace {
 
